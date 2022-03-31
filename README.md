@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Wiraa07
 - 👀 I’m interested in Design Graphic
 - 🌱 I’m currently learning Web Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Wiradinurkhaliq@gmail.com
 
 <!---
 Wiraa07/Wiraa07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
